@@ -247,7 +247,7 @@
     .ever2{
         font-size: 18px;
         height: 50vh;
-        margin-top: 10%;
+
     }
     .ever2 h1{
         margin-bottom: 10%;
@@ -256,7 +256,7 @@
         width: 90%;
         font-size: 16px;
         padding: 2% 0;
-        
+        margin-top: 22%;
     }
     .dangasa{
         margin-bottom: 33%;
@@ -337,7 +337,7 @@
     margin-left: 15%; 
 }
 .barc{
-    width: 150px;
+    width: 160px;
     height: 46px;
     font-size: 13px;
     margin: 2% 25%;
@@ -355,14 +355,14 @@
 }
 .sovga2{
     width: 100%;
-    height: 80%;  
+    height: 90%;  
     padding: 0;
     margin: 0;
 }
 .santa2{
     flex-wrap: wrap;
     padding: 0;
-    margin: 0;
+    margin:0 0 15% 0;
 }
 .futeer{
     
@@ -375,7 +375,7 @@
         width: 150px;
         height: 46px;
         font-size: 13px;
-        margin: 2% 25%;
+        margin: 5% 25%;
     }
     .dangasa{
         margin-bottom: 0%;
@@ -384,7 +384,7 @@
 
 @media screen and (max-width: 340px){
     .img2 img{
-        width: 230px;
+        width: 400px;
     }
     .max
     .hal2{
