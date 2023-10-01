@@ -308,10 +308,10 @@
 
     }
     .barc{
-        width: 180px;
+        width: 190px;
         height: 46px;
         font-size: 13px;
-        margin: 2% 35%;
+        margin: 2% 35% 0 ;
     }
     .dangasa{
         margin-bottom: 8%;
@@ -322,12 +322,17 @@
     }
     .ever2{
         font-size: 15px;
-        margin: 0;
         
     }
     .button2{
         font-size: 13px;
         padding: 4% 0;
+    }
+    .futeer{
+        margin-top: 90%;
+    }
+    .taste2{
+        margin-top: 0;
     }
 }
 
