@@ -1,0 +1,393 @@
+@media screen and (max-width: 1500px) {
+    .nav{
+        font-size: 16px;
+    }
+    
+    .img1 img{
+        width: 300px;
+    }
+    .img2 img{
+        width: 800px;
+    }
+    .sovga{
+        width: 300px;
+        height: 250px;  
+    }
+}
+@media screen and (max-width: 1370px) {
+    .img2 img{
+        width: 700px;
+    }
+    .nav{
+        font-size: 13px;
+    }
+    .img1 img{
+        width: 250px;
+    }
+    .halal{
+        width: 70px;
+    }
+    .text h2{
+        font-size: 25px;
+    }
+    .sovga{
+        width: 280px;
+        height: 230px;  
+    }
+    .ever{
+        font-size: 25px;
+    }
+    .button{
+        font-size: 18px;
+        padding: 3.8% 0;
+    }
+}
+@media screen and (max-width: 1200px) {
+    .img2 img{
+        width: 580px;
+    }
+    .text h2{
+        font-size: 20px;
+    }
+    .img1 img{
+        width: 200px;
+    }
+    .nav{
+        font-size: 10px;
+    }
+    .logo{
+        width: 100px;
+        height: 80px;
+    }
+    .uz{
+        width: 50px;
+        height: 20px;
+    }
+    .barc{
+        width: 280px;
+        height: 55px;
+        font-size: 17px;
+    }
+    .sovga{
+        width: 260px;
+        height: 220px;  
+    }
+}
+@media screen and (max-width: 1010px){
+    .img2 img{
+        width: 500px;
+        
+    }
+    .img2{
+        margin-left: 0%;
+    }
+    .img1 img{
+        width: 150px;
+        padding: 0;
+    }
+    .halal{
+        width: 50px;
+    }
+    .logo{
+        width: 80px;
+        height: 50px;
+    }
+    .card{
+        width: 110px;
+        height: 160px;    
+    }
+    .sovga{
+        width: 210px;
+        height: 210px;  
+    }
+    .ever{
+        font-size: 23px;
+    }
+    .button{
+        font-size: 16px;
+        padding: 4% 0;
+    }
+    .dangasa{
+        margin-bottom: 33%;
+    }
+}
+@media screen and (max-width: 837px){
+    .halal{
+        display: none;
+    }
+   
+    .zabral{
+        display: block;
+    }
+    .text{
+        height: 200px; 
+    }
+    .navbar ul{
+        gap: 20px;
+        
+    }
+    .barc{
+        width: 270px;
+        height: 50px;
+        font-size: 17px;
+        margin: 2% 36%;
+    }
+    .video{
+        font-size: 17px;
+
+    }
+    .dang{
+        width: 600px;
+        height: 400px;
+    }
+    .sovga{
+        width: 180px;
+        height: 200px;  
+    }
+    .ever{
+        font-size: 23px;
+        height: 80vh;
+    }
+    .button{
+        width: 90%;
+        font-size: 16px;
+        padding: 6% 0;
+        margin-top: 50%;
+    }
+    .sovga2{
+        width: 300px;
+        height: 250px;  
+    }
+    .ever2{
+        font-size: 23px;
+        height: 80vh;
+    }
+    .button2{
+        width: 90%;
+        font-size: 16px;
+        padding: 2% 0;
+        
+    }
+    .dangasa{
+        margin-bottom: 30%;
+    }
+}
+@media screen and (max-width: 750px){
+    .taste{
+        display: none;
+    }
+    .taste2{
+        display: block;
+        margin-bottom: 80%;
+    }
+    .futeer ul{
+        display: block;
+        list-style: none;
+        margin: 2% 0 4% 0;
+    }
+   
+}
+
+
+
+@media screen and (max-width: 700px){
+    .max
+    .hal2{
+        margin-left: 30%;
+       display: block; 
+    }
+    .img1{
+        padding: 10px;
+    }
+    .text{
+        width: 50%;
+        
+    }
+    ul li{
+        display: none;
+    }
+    .navbar i{
+        display: block;
+        font-size: 10px;
+    }
+    .img2 img{
+        width: 300px;
+        margin: 0;
+        padding: 0;
+    }
+    .text h2{
+        font-size: 16px;
+    }
+    .card{
+        width: 90px;
+        height: 110px;    
+    }
+    .max h2{
+        font-size: 17px;
+    }
+    .barc{
+        width: 200px;
+        height: 46px;
+        font-size: 15px;
+        margin: 2% 35%;
+    }
+    .video{
+        font-size: 15px;
+        width: 80px;
+        height: 40px;
+    }
+    .dang{
+        width: 500px;
+        height: 400px;
+    }
+    .sovga2{
+        width: 250px;
+        height: 200px;  
+    }
+    .ever2{
+        font-size: 18px;
+        height: 50vh;
+        margin-top: 10%;
+    }
+    .ever2 h1{
+        margin-bottom: 10%;
+    }
+    .button2{
+        width: 90%;
+        font-size: 16px;
+        padding: 2% 0;
+        
+    }
+    .dangasa{
+        margin-bottom: 33%;
+    }
+    .futeer ul li{
+        display: block;
+        list-style: none;
+        margin: 2% 0 4% 0;
+    }
+}
+@media screen and (max-width: 640px){
+    .dang{
+        width: 450px;
+        height: 300px;
+    }
+    .dangasa{
+        margin-bottom: 25%;
+    }
+    .sovga2{
+        width: 250px;
+        height: 220px;  
+    }
+}
+@media screen and (max-width: 580px){
+    .sovga2{
+        width: 210px;
+        height: 200px;  
+    }
+    .dangasa{
+        margin-bottom: 20%;
+    }
+}
+
+
+@media screen and (max-width: 540px){
+    .dang{
+        width: 400px;
+        height: 250px;
+    }
+    .dangasa{
+        padding: 2% 8%;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .dang{
+        width: 350px;
+        height: 200px;
+
+    }
+    .barc{
+        width: 180px;
+        height: 46px;
+        font-size: 13px;
+        margin: 2% 35%;
+    }
+    .dangasa{
+        margin-bottom: 8%;
+    }
+    .sovga2{
+        width: 180px;
+        height: 200px;  
+    }
+    .ever2{
+        font-size: 15px;
+        margin: 0;
+        
+    }
+    .button2{
+        font-size: 13px;
+        padding: 4% 0;
+    }
+}
+
+@media screen and (max-width: 400px){
+.max
+.hal2{
+    margin-left: 15%; 
+}
+.barc{
+    width: 150px;
+    height: 46px;
+    font-size: 13px;
+    margin: 2% 25%;
+}
+.video{
+    font-size: 14px;
+    width: 85px;
+    height: 35px;
+    margin: 1.5% 35%;
+}
+.dang{
+    width: 250px;
+    height: 150px;
+
+}
+.sovga2{
+    width: 100%;
+    height: 80%;  
+    padding: 0;
+    margin: 0;
+}
+.santa2{
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+}
+.futeer{
+    
+    margin-top: 110%;
+}
+}
+
+@media screen and (max-width: 380px){
+    .barc{
+        width: 150px;
+        height: 46px;
+        font-size: 13px;
+        margin: 2% 25%;
+    }
+    .dangasa{
+        margin-bottom: 0%;
+    }
+}
+
+@media screen and (max-width: 340px){
+    .img2 img{
+        width: 230px;
+    }
+    .max
+    .hal2{
+        margin-left: 10%; 
+    }
+}
