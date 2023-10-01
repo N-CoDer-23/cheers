@@ -377,13 +377,16 @@
 
 @media screen and (max-width: 380px){
     .barc{
-        width: 150px;
+        width: 170px;
         height: 46px;
         font-size: 13px;
-        margin: 5% 25%;
+        margin: 5% 0 0 25%;
     }
     .dangasa{
         margin-bottom: 0%;
+    }
+    .taste2{
+        margin-bottom: 20%;
     }
 }
 
